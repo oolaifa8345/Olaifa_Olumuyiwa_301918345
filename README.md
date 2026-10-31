@@ -2,7 +2,7 @@
 
 Olumuyiwa Olaifa · Student ID 301918345
 
-The portfolio uses fictional records for Bank / Fintech Platform.
+The portfolio uses fictional data to representing a Bank/Fintech Platform.
 
 - [Portfolio 1](portfolio-1-database-design/)
 - [Portfolio 2](portfolio-2-query-optimisation/)
