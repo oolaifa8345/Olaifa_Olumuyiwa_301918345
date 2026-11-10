@@ -28,7 +28,7 @@ I used a temporary counter on account to test COMMIT, ROLLBACK and READ COMMITTE
 
 I used payment_events for the case's event documents. MongoDB inserted 2 sample events and returned the expected results for 4 queries. Validation rejected an invalid date type and a duplicate event ID. Embedded snapshots keep related details with an event, while the details field can differ by event type. These are fictional events; PostgreSQL continues to enforce its relational rules.
 
-## Repository and evidence
+## Repository
 
 https://github.com/oolaifa8345/Olaifa_Olumuyiwa_301918345
 
